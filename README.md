@@ -1,6 +1,6 @@
 # Banca App
 
-[Banca App Logo](/assets/icons/banca_icon.svg.png)
+![Banca App Logo](/assets/images/banca_icon.png)
 
 ## Características Principales
 
